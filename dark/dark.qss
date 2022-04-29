@@ -1,0 +1,19 @@
+QFrame[Tier="+1"] {
+	background-color: #31393E;
+}
+
+QFrame[Tier="0"] {
+	background-color: #2B3136;
+}
+
+QFrame[Tier="-1"] {
+	background-color: #252A2E;
+}
+
+QFrame[Tier="-2"] {
+	background-color: #1F2326;
+}
+
+QFrame[Tier="-3"] {
+	background-color: #191C1F;
+}

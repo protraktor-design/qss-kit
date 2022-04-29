@@ -17,3 +17,48 @@ QFrame[Tier="-2"] {
 QFrame[Tier="-3"] {
 	background-color: #191C1F;
 }
+
+QMainWindow, MainWindow {
+	
+}
+
+QLabel {
+
+}
+
+
+QPushButton {
+
+}
+
+QToolButton {
+
+}
+
+QRadioButton {
+
+}
+
+QCheckBox {
+
+}
+
+QComboBox {
+
+}
+
+QLineEdit {
+
+}
+
+QPlainTextEdit {
+
+}
+
+QFrame {
+
+}
+
+QTabWidget {
+
+}
